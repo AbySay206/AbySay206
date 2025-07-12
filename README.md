@@ -36,9 +36,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AbySay206/AbySay206/output/snake.svg" alt="Snake animation" />
-
-###
